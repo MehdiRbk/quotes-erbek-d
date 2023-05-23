@@ -6,7 +6,7 @@ A python program that generates programming quotes and jokes.
 - `initiator`: ERBEK Mehdi D
 - `contributor-1`: MESTOUR Yannis  D
 - `contributor-2`: LAMOTTE-CHAPON Paul-émile D
-- `contributor-3`: 
+- `contributor-3`: MESTOUR Yannis D
 
 ## Fork urls
 - `contributor-1`: [quotes-mestour-d](https://github.com/YannisMes/quotes-mestour-d)
